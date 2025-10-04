@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "bismillahya.aternos.me",
+    "port": 29609,
     "version": "1.19.3"
   },
 
